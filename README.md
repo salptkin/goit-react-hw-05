@@ -1,1 +1,3 @@
-# goit-react-hw-05
+# React + Vite
+
+goit-react-hw-05
